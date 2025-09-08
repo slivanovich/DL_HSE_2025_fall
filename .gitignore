@@ -1,0 +1,9 @@
+__pycache__/
+.DS_Store   
+.env
+.env_prod
+.env_dev
+/catboost_info
+.idea/
+**/*.ipynb_checkpoints/
+homeworks/hw1/data/test_gt.csv
